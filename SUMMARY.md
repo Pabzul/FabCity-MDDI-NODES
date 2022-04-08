@@ -18,7 +18,7 @@
     * [9. Saving and organizing documents](canva/tutorials/9.-saving-and-organizing-documents.md)
     * [10. What’s next](canva/tutorials/10.-whats-next.md)
 * [MDDI Branding](mddi-branding.md)
-* [Initial Content](initial-content/README.md)
+* [Digital Marketing Strategy](initial-content/README.md)
   * [MDDI City Logo](initial-content/mddi-city-logo.md)
   * [Mailing Newsletter](initial-content/mailing-newsletter.md)
   * [Webpage](initial-content/webpage.md)
