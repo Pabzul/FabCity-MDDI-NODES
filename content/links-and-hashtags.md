@@ -25,23 +25,13 @@ So we can scale our efforts together, we have defined certain links and hashtags
 
 <mark style="color:blue;">@fablabbcn</mark>&#x20;
 
-<mark style="color:blue;"></mark>
-
 ### **FAB CITY SOCIAL MEDIA**
 
-Instagram: [https://instagram.com/fabcityglobal](https://instagram.com/fabcityglobal)&#x20;
-
-Youtube: [https://www.youtube.com/channel/UCNI09f77WVBInvzrD4emrVg](https://www.youtube.com/channel/UCNI09f77WVBInvzrD4emrVg)&#x20;
-
-Facebook: [https://www.facebook.com/fabcityglobal](https://www.facebook.com/fabcityglobal)&#x20;
-
-Twitter: [https://twitter.com/fabcityglobal](https://twitter.com/fabcityglobal)&#x20;
-
-LinkedIN: [https://www.linkedin.com/company/fab-city](https://www.linkedin.com/company/fab-city)
-
-MDDI: [https://fab.city/mddi.html](https://fab.city/mddi.html)&#x20;
-
-Linktree: [https://linktr.ee/fabcityglobal](https://linktr.ee/fabcityglobal)&#x20;
-
-Fab City Website: [https://fab.city/](https://fab.city)&#x20;
-
+* Instagram: [https://instagram.com/fabcityglobal](https://instagram.com/fabcityglobal)&#x20;
+* Youtube: [https://www.youtube.com/channel/UCNI09f77WVBInvzrD4emrVg](https://www.youtube.com/channel/UCNI09f77WVBInvzrD4emrVg)
+* Facebook: [https://www.facebook.com/fabcityglobal](https://www.facebook.com/fabcityglobal)&#x20;
+* Twitter: [https://twitter.com/fabcityglobal](https://twitter.com/fabcityglobal)&#x20;
+* LinkedIN: [https://www.linkedin.com/company/fab-city](https://www.linkedin.com/company/fab-city)
+* MDDI: [https://fab.city/mddi.html](https://fab.city/mddi.html)&#x20;
+* Linktree: [https://linktr.ee/fabcityglobal](https://linktr.ee/fabcityglobal)&#x20;
+* Fab City Website: [https://fab.city/](https://fab.city)&#x20;
