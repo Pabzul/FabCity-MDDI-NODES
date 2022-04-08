@@ -8,6 +8,4 @@ We would like you to help us organize an open day in your facilities, with the f
 * Give them a tour around the facility and show them the machines and space.
 * Get to know them and explain to them about the program and your institution.
 
-We will be happy to help you promote it on our social media and network, and also to help you design the poster of content to invite the people to come.
-
-SOON MORE INFORMATION
+We will be happy to help you promote it on our social media and network, please reach out to us on this topic for more information at <mark style="color:blue;">mddi@fab.city</mark>
