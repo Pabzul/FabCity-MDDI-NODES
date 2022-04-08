@@ -21,7 +21,7 @@ Here is the Taxonomy on what you will find on our [Main Drive](https://drive.goo
 * ****[**MDDI Social Media**](https://drive.google.com/drive/folders/1cP-kJdqXWWoli5yuy4Nfq-Y5bJOFKS4e)\
   Here you will find useful information to generate a webpage for the master that lives on your main website.
   * ****[**Post**](https://drive.google.com/drive/folders/1BOBceRBL7uPp8rxna58SKHvXlRQ8PuNc?usp=sharing)\
-    Square png format
+    Square and Banner .png format. If you want to download the full collection of Banners for MDDI click [here](https://drive.google.com/file/d/1UMVwtJT0pkkCBXTehqgz393p7w91HqGw/view?usp=sharing)
   * ****[**Reel/Video**](https://drive.google.com/drive/folders/1u34wKULpqaco7Q3N38-mwrqNTPZRuycL?usp=sharing)\
     Vertical Video Formats
   * ****[**Story**](https://drive.google.com/drive/folders/1h9kW8EMgQSvbgm2Xc855bvMeLm8H2TQg?usp=sharing)\
