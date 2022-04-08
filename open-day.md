@@ -1,6 +1,6 @@
 # Open Days
 
-We believe that on of the best ways to make people fall in love with your lab and engage them to study the master's is by visiting your institution.
+We believe that one of the best ways to make people fall in love with your lab and engage them to study MDDI is by visiting your institution.
 
 We would like you to help us organize an open day in your facilities, with the following characteristics:
 
