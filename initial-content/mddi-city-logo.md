@@ -4,12 +4,11 @@
 
 ![](<../.gitbook/assets/CITY NAME.png>)
 
-{NODE NAME} is proud to announce that is one of the global institutions\
-where you will be able to study the Master in Design for Distributed Innovation,\
-from the FabCity Global Initiative.\
+### Caption
+
+{NODE NAME} is proud to announce that part of the 💥NEW Master in Design for Distributed Innovation of the Fab City Global Initiative. \
 \
-Starting October 2022\
+🗓️Starting October 2022\
 ADMISSIONS OPEN!\
 \
-More information at:\
-[Fab.city/MDDI](https://fab.city/mddi)
+👉Learn more and and join us this Fall at[ Fab.city/MDDI](https://fab.city/mddi)
