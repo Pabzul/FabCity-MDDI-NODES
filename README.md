@@ -12,7 +12,7 @@ This guide Includes:
 * [Folders Taxonomy](folders-taxonomy.md)
 * [Canva guides and tutorials](canva/)
 * [MDDI branding guides](mddi-branding.md)
-* [MDDI calendar](broken-reference)
+* [Important Dates](content/monthly-content.md)
 * [MDDI communication Contact Information](contact-information.md)
 
 You can navigate it by going page by page, or directly to the link of your interest.

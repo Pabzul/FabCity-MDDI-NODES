@@ -29,5 +29,5 @@
   * [Captions](content/captions/README.md)
     * [229 char](content/captions/229-char.md)
     * [411 char](content/captions/411-char.md)
-  * [Monthly Content](content/monthly-content.md)
+  * [Importante Dates](content/monthly-content.md)
 * [Contact Information](contact-information.md)
