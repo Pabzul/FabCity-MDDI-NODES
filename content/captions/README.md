@@ -17,6 +17,8 @@ Here are some examples shorter and longer versions we need you to use whenever y
 
 #### INSTAGRAM FORMAT
 
+![](../../.gitbook/assets/1.png)
+
 Join Us this Fall 🍂 at MDDI
 
 The Master in Design for Distributed Innovation (MDDI) is a research and innovation ecosystem for creative professionals, entrepreneurs, policymakers, and agents of change who want to realize real-world responses to the climate crisis, social injustice, and biodiversity loss, connecting a global community of changemakers with local innovators in order to address complex challenges.
