@@ -1,17 +1,16 @@
 # Webpage
 
-![
-https://iaac.net/educational-programmes/masters-programmes/mddi-master-in-distributed-design-innovation/](../.gitbook/assets/image.png)
+![https://iaac.net/educational-programmes/masters-programmes/mddi-master-in-distributed-design-innovation/](../.gitbook/assets/image.png)
 
 As an important asset for the MDDI promotion, we suggest you to create a page, inside of your webpage, where people could find all of the information about the master in the local language. This will also help to validate between your community, that you are one of the cities that give this global program.
 
-This website should have the basic information you would like your audience to have about the master, and an APPLY NOW button that will send them to the IAAC webpage application form.
+This website should have the basic information you would like your audience to have about the master, and an APPLY NOW button that will send them to the IAAC webpage application form. You can use [Fab City MDDI](webpage.md#it-is-very-important-that-the-apply-now-button-appears-when-people-first-open-the-webpage.) Website as reference.
 
 We've created a folder with some stock images that you can use for decorating the website, and it's important that you keep in mind the [MDDI branding guidelines](../mddi-branding.md) in your design.
 
 ![FabCity branding](<../.gitbook/assets/image (9).png>)
 
-MDDI uses the same FabCity colors, but with predominance in Black and White, with a very small amount of the other main colors in the palette.
+MDDI uses the same FabCity colors, but with predominance in \*\***Black and White\*\***, with a very small amount of the other main colors in the palette.
 
 Website Content:
 
