@@ -20,7 +20,7 @@
 * [MDDI Branding](mddi-branding.md)
 * [Digital Marketing Strategy](initial-content/README.md)
   * [MDDI City Logo](initial-content/mddi-city-logo.md)
-  * [Mailing Newsletter](initial-content/mailing-newsletter.md)
+  * [Newsletter](initial-content/mailing-newsletter.md)
   * [Webpage](initial-content/webpage.md)
   * [Press Release](initial-content/press-release.md)
   * [Open Day](initial-content/open-day.md)
