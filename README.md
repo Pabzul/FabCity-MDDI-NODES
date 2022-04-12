@@ -4,8 +4,6 @@ description: Communication Tool Kit for Node Use
 
 # MDDI
 
-Communication Tool Kit for Node Use
-
 ![](<.gitbook/assets/LOGO MDDI.png>)
 
 Hello, and welcome to the MDDI team!
