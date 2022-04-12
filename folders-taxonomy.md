@@ -31,7 +31,7 @@ Here is the Taxonomy on what you will find on our [Main Drive](https://drive.goo
 * ****[**Presentations**](https://drive.google.com/drive/folders/1IPk9rm8tpcPPRA8Dllw8VvdXbwQiyh6O)\
   Internal presentations to guide you on what is coming next at different stages of the administrative and communications plans.&#x20;
 * ****[**Scholarship Content**](https://drive.google.com/drive/folders/1YbQ-meQ4f8TCBEQ5LP8PwWQWzd63UnIH)\
-  Help us promote MDDI Scholarships between April 11- May 26. Here you will find any graphic material.
+  Help us promote MDDI Scholarships between April 11-25. Here you will find any graphic material.
 * ****[**Stock Material**](https://drive.google.com/drive/folders/1QxxVFPurhbM29jeyhfacpt-T8UkHJZ14)\
   We have gather sufficient material for you to use as you like.
   *   ****[**Images**](https://drive.google.com/drive/folders/14rpbTjFgQvKO6BlM5chokSHFbJY7tjxI)****
