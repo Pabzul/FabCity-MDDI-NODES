@@ -24,8 +24,12 @@ Locally organized class groups will **experiment in their nearest Fab Labs** by 
 \
 The MDDI program is now receiving applications for its first edition which will start in October  2022.
 
-
-
 __[_Check the e-blast_ ](https://us12.campaign-archive.com/?u=9fda6809b952c81883e74c723\&id=1d032d317d)__
 
-Upload this template to your own Mailchimp Account [here](https://us12.admin.mailchimp.com/templates/share?id=91464393\_7cd441df5d69d1521b74\_us12)
+__
+
+### _Templates to upload to your own Mailchimp Account_
+
+General MDDI Communications [here](https://us12.admin.mailchimp.com/templates/share?id=91464393\_7cd441df5d69d1521b74\_us12)
+
+MDDI Nodes Scholarship [here](https://us12.admin.mailchimp.com/templates/share?id=91464393\_4309c7006be94f3e9a4f\_us12)
