@@ -10,7 +10,7 @@ Hello, and welcome to the MDDI team!
 
 In this document, you will have a complete guide that we will be updating frequently with useful files and information to help you promote your city/lab as one of the MDDI program nodes.
 
-This guide Includes:
+This guide Includes
 
 * [Nodes folders links](cities-nodes.md)
 * [Folders Taxonomy](folders-taxonomy.md)
