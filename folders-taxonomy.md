@@ -26,15 +26,10 @@ Below is the categorization of what you'll discover on our [Main Drive](https://
     Vertical Video Formats
   * [**Story**](https://drive.google.com/drive/folders/1h9kW8EMgQSvbgm2Xc855bvMeLm8H2TQg?usp=sharing)\
     Vertical png format
-  * [**MDDiI Communication Dashboard**](https://docs.google.com/document/d/1PtChZhFSa5ZKwWcPzCXGhi-9qexQmZhpcouRBCR\_CSI/edit?usp=sharing)\
+  * [**MDDI Communication Dashboard**](https://docs.google.com/document/d/1PtChZhFSa5ZKwWcPzCXGhi-9qexQmZhpcouRBCR\_CSI/edit?usp=sharing)\
     A text document with useful links and captions to add to any post.
-*   [**MDDI** ](https://drive.google.com/drive/folders/15mkRVoOpKNb7xogw1V-N3pP7fXos4sr9)[ **Logo Nodes**](https://drive.google.com/drive/folders/1VP5IDWXXsOWfwgsr\_nTZtG4hkHtKhhMF)
-
-    In this folder you will be able to find a label for your city, inside the main graphic you should use on your communications. _We invite you to add any additional logos of your lab/partner organizations/fablabs/etc. And any other material that could be help us help you on the Global Communication strategy._ &#x20;
 * [**Presentations**](https://drive.google.com/drive/folders/1IPk9rm8tpcPPRA8Dllw8VvdXbwQiyh6O)\
   Internal presentations to guide you on what is coming next at different stages of the administrative and communications plans.&#x20;
-* [**Scholarship Content**](https://drive.google.com/drive/folders/1YbQ-meQ4f8TCBEQ5LP8PwWQWzd63UnIH)\
-  Help us promote MDDI Scholarships between April 11-25. Here you will find any graphic material.
 * [**Stock Material**](https://drive.google.com/drive/folders/1QxxVFPurhbM29jeyhfacpt-T8UkHJZ14)\
   We have gather sufficient material for you to use as you like.
   *   [**Images**](https://drive.google.com/drive/folders/14rpbTjFgQvKO6BlM5chokSHFbJY7tjxI)
@@ -44,7 +39,4 @@ Below is the categorization of what you'll discover on our [Main Drive](https://
 
       .mov and .mp4 content
 * [**Videos**](https://drive.google.com/drive/folders/1CSyENnIvhYOdVZ1AoHKiJlF9t1Qlv-X5)\
-  Any promotional video related to the digital marketing campaign will be added here. Stay tune for our new video by the end of April.&#x20;
-
-**IMPORTANT:**\
-_Content will be uploaded after the global publications are launched._&#x20;
+  Any promotional video related to the digital marketing campaign will be added here.
