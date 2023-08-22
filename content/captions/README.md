@@ -6,12 +6,12 @@ Please take into consideration the following recommendation related to some plat
 
 **INSTAGRAM**
 
-* Use a [linktree](https://linktr.ee) account to add the MDDI link on your bio link
+* Use a [linktree](https://linktr.ee/) account to add the MDDI link on your bio link
 * Post don’t allow clickable links on their caption, if you post you must use the following line: 👉Check our MDDI link on our bio link for more information
 
 **TWITTER**
 
-* Use a shorten url platform link like [https://www.shorturl.at/](https://www.shorturl.at) to help fit all your content in a single tweet
+* Use a shorten url platform link like [https://www.shorturl.at/](https://www.shorturl.at/) to help fit all your content in a single tweet
 
 ### Here are some examples shorter and longer versions we need you to use whenever you share content about the master.
 

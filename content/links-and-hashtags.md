@@ -9,7 +9,7 @@ So we can scale our efforts together, we have defined certain links and hashtags
 * APPLY NOW: [https://iaac.net/iaac/apply/application-form/](https://iaac.net/iaac/apply/application-form/)
 * Download the booklet: [https://iaac.net/other-pages/download-the-booklet/](https://iaac.net/other-pages/download-the-booklet/)
 * Youtube:[ https://www.youtube.com/channel/UCNI09f77WVBInvzrD4emrVg](https://www.youtube.com/channel/UCNI09f77WVBInvzrD4emrVg)&#x20;
-* Fab City Website:[ https://fab.city/](https://fab.city)&#x20;
+* Fab City Website:[ https://fab.city/](https://fab.city/)&#x20;
 
 ### **HASHTAGS**
 
@@ -34,4 +34,4 @@ So we can scale our efforts together, we have defined certain links and hashtags
 * LinkedIN: [https://www.linkedin.com/company/fab-city](https://www.linkedin.com/company/fab-city)
 * MDDI: [https://fab.city/mddi.html](https://fab.city/mddi.html)&#x20;
 * Linktree: [https://linktr.ee/fabcityglobal](https://linktr.ee/fabcityglobal)&#x20;
-* Fab City Website: [https://fab.city/](https://fab.city)&#x20;
+* Fab City Website: [https://fab.city/](https://fab.city/)&#x20;

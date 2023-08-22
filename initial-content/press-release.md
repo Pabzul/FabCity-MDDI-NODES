@@ -10,7 +10,7 @@ MDDI is the **next frontier** in global education. It offers a **design framewor
 
 ![Fab City Bioregions](<../.gitbook/assets/Copy of FabCity\_Network-bioregions (1).png>)
 
-The first edition will start in October 2022 led by an experienced and **renowned faculty** in the fields of biology, digital fabrication, ecology, urban design, innovation, product design, and strategic design. **** \
+The first edition will start in October 2022 led by an experienced and **renowned faculty** in the fields of biology, digital fabrication, ecology, urban design, innovation, product design, and strategic design. \
 \
 MDDI is a 10th-month master program, it is composed of three modules organized in the tracks of Technologies, Ecosystems, and Communities.
 
