@@ -4,13 +4,13 @@ description: Template
 
 # Press Release
 
-<mark style="color:yellow;">{Node Name}</mark> will be one of the first 8 cities to launch the Master in Design for Distributed Innovation (MDDI) this year, at the <mark style="color:yellow;">{LOCAL NODE LAB}</mark>. Led by the **Fab City Global Initiative** in collaboration with the **Institute for Advanced Architecture of Catalonia (IAAC)** and **Fab Lab Barcelona.**
+<mark style="color:yellow;">{Node Name}</mark> will be one of the first 10 cities to launch the Master in Design for Distributed Innovation (MDDI) this year, at the <mark style="color:yellow;">{LOCAL NODE LAB}</mark>. Led by the **Fab City Global Initiative** in collaboration with the **Institute for Advanced Architecture of Catalonia (IAAC)** and **Fab Lab Barcelona.**
 
 MDDI is the **next frontier** in global education. It offers a **design framework** to integrate human needs with the balance of our planetary ecosystems to nurture life **locally and globally**. The **distributed format** allows students to learn and apply new knowledge to local challenges connected to a **global community of like-minded changemakers.**
 
 ![Fab City Bioregions](<../.gitbook/assets/Copy of FabCity\_Network-bioregions (1).png>)
 
-The first edition will start in October 2022 led by an experienced and **renowned faculty** in the fields of biology, digital fabrication, ecology, urban design, innovation, product design, and strategic design. \
+The first edition will start in October 2023 led by an experienced and **renowned faculty** in the fields of biology, digital fabrication, ecology, urban design, innovation, product design, and strategic design. \
 \
 MDDI is a 10th-month master program, it is composed of three modules organized in the tracks of Technologies, Ecosystems, and Communities.
 

@@ -22,7 +22,7 @@ MDDI is a 10th-month master program, it is composed of three modules organized i
 Locally organized class groups will **experiment in their nearest Fab Labs** by prototyping and testing **new design and innovation** approaches **to address issues** such as climate change, social deprivation, economic loss, and community degradation.
 
 \
-The MDDI program is now receiving applications for its first edition which will start in October  2022.
+The MDDI program is now receiving applications for its first edition which will start in October  2023.
 
 [_Check the e-blast_ ](https://us12.campaign-archive.com/?u=9fda6809b952c81883e74c723\&id=1d032d317d)
 
@@ -31,5 +31,3 @@ The MDDI program is now receiving applications for its first edition which will 
 ### _Templates to upload to your own Mailchimp Account_
 
 General MDDI Communications [here](https://us12.admin.mailchimp.com/templates/share?id=91464393\_7cd441df5d69d1521b74\_us12)
-
-MDDI Nodes Scholarship [here](https://us12.admin.mailchimp.com/templates/share?id=91464393\_4309c7006be94f3e9a4f\_us12)
